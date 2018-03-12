@@ -7,6 +7,8 @@
 //
 
 import UIKit
+import Firebase
+import Flurry_iOS_SDK
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
@@ -15,7 +17,13 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
-        // Override point for customization after application launch.
+        Flurry.startSession("5586PX7NTNHZ7QSM7X2V", with: FlurrySessionBuilder
+            .init()
+            .withCrashReporting(true)
+            .withLogLevel(FlurryLogLevelAll))
+        Flurry.logEvent("Started Application")
+        FirebaseApp.configure()
+        UIApplication.shared.statusBarStyle = .lightContent
         return true
     }
 

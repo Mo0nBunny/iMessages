@@ -5,3 +5,12 @@
   Created by Sirin on 05/03/2018.
   Copyright © 2018 Sirin. All rights reserved.
 */
+"001_error_enter_email_pass" = "Введите email и пароль";
+"002_error_no_user" = "Пользователь не найден";
+"003_error_incorrect_user_pass" = "Не правильное имя пользователя или пароль";
+"004_error_error" = "Ошибка:";
+"005_error_enter_name_email_pass" = "Введите имя, email и пароль";
+"006_error_invalid_email" = "Введите существующий email";
+"007_error_email_in_use" = "Email уже зарегистрирован";
+
+

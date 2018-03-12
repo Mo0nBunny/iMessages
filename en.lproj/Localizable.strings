@@ -5,3 +5,10 @@
   Created by Sirin on 05/03/2018.
   Copyright © 2018 Sirin. All rights reserved.
 */
+"001_error_enter_email_pass" = "Enter an email and a password";
+"002_error_no_user" = "There are no users with the specified account";
+"003_error_incorrect_user_pass" = "Incorrect username or password";
+"004_error_error" = "Error:";
+"005_error_enter_name_email_pass" = "Enter a name, an email and a password";
+"006_error_invalid_email" = "Enter a valid email";
+"007_error_email_in_use" = "Email already in use";

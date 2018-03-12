@@ -7,3 +7,14 @@
 //
 
 import Foundation
+import UIKit
+//
+//class Alert: UIAlertController {
+//    
+//    func showAlert(message: String) {
+//        let alertController = UIAlertController(title: "iMessages", message: message, preferredStyle: .alert)
+//        alertController.addAction(UIAlertAction(title: "Ok", style: .default, handler: nil))
+//        self.present(alertController, animated: true, completion: nil)
+//    }
+//}
+

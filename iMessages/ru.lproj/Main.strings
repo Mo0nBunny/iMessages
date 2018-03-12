@@ -1,0 +1,42 @@
+
+/* Class = "UIButton"; normalTitle = "Sign In"; ObjectID = "2l6-4I-jyd"; */
+"2l6-4I-jyd.normalTitle" = "Sign In";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "7Kd-aH-d7J"; */
+"7Kd-aH-d7J.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Sing In"; ObjectID = "B16-Y3-ZAh"; */
+"B16-Y3-ZAh.normalTitle" = "Sing In";
+
+/* Class = "UIBarButtonItem"; title = "Chat"; ObjectID = "FfG-5k-9lY"; */
+"FfG-5k-9lY.title" = "Chat";
+
+/* Class = "UITextField"; placeholder = "Enter password"; ObjectID = "IES-OD-vxo"; */
+"IES-OD-vxo.placeholder" = "Enter password";
+
+/* Class = "UIButton"; normalTitle = "Sing Up"; ObjectID = "LD3-Qc-kmw"; */
+"LD3-Qc-kmw.normalTitle" = "Sing Up";
+
+/* Class = "UINavigationItem"; title = "iMessages"; ObjectID = "MJF-mJ-SoZ"; */
+"MJF-mJ-SoZ.title" = "iMessages";
+
+/* Class = "UITextField"; placeholder = "Enter your email"; ObjectID = "itI-rM-Yfv"; */
+"itI-rM-Yfv.placeholder" = "Enter your email";
+
+/* Class = "UIButton"; normalTitle = "Sing Up"; ObjectID = "jh7-1o-eTW"; */
+"jh7-1o-eTW.normalTitle" = "Sing Up";
+
+/* Class = "UITextField"; placeholder = "Enter your name"; ObjectID = "nJQ-Rt-xWB"; */
+"nJQ-Rt-xWB.placeholder" = "Enter your name";
+
+/* Class = "UIBarButtonItem"; title = "Logout"; ObjectID = "srh-bt-8B9"; */
+"srh-bt-8B9.title" = "Logout";
+
+/* Class = "UITextField"; placeholder = "Enter your password"; ObjectID = "uVk-m6-838"; */
+"uVk-m6-838.placeholder" = "Enter your password";
+
+/* Class = "UITextField"; placeholder = "Enter email"; ObjectID = "vtK-A6-6J1"; */
+"vtK-A6-6J1.placeholder" = "Enter email";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "xl8-7a-xh0"; */
+"xl8-7a-xh0.text" = "Label";

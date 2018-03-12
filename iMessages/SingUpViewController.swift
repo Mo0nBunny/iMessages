@@ -1,14 +1,14 @@
 //
-//  ViewController.swift
+//  SingUpViewController.swift
 //  iMessages
 //
-//  Created by Sirin on 02/02/2018.
+//  Created by Sirin on 29/01/2018.
 //  Copyright © 2018 Sirin. All rights reserved.
 //
 
 import UIKit
 
-class ViewController: UIViewController {
+class SingUpViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
